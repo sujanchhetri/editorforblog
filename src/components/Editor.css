@@ -1,0 +1,25 @@
+.body-container {
+    min-height: calc(100vh - 128px);
+    border: none !important;
+    width: 60% !important;
+    margin-top: 20px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+  
+}
+
+.fr-box.fr-basic .fr-wrapper > .fr-element.fr-view {
+    min-height: calc(100vh - 181px);
+}
+
+.markdown-editor {
+    flex-basis: 50%;
+}
+
+.markdown-preview {
+    position: relative;
+    flex-basis: 50%;
+    height: calc(100vh - 129px);
+    overflow: auto;
+    padding: 1em;
+}

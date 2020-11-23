@@ -1,0 +1,11 @@
+.navbar-info {
+    background-color: #17a2b8;
+}
+
+.navbar .navbar-brand {
+    color: white;
+}
+
+.ml-auto {
+    display: none;
+}
